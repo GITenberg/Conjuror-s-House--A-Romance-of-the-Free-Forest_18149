@@ -1,0 +1,35 @@
+_repo: Conjuror-s-House--A-Romance-of-the-Free-Forest_18149
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: White, Stewart Edward
+    birthdate: 1873
+    deathdate: 1946
+    gutenberg_agent_id: '247'
+    url: http://www.gutenberg.org/2009/agents/247
+    wikipedia: http://en.wikipedia.org/wiki/Stewart_Edward_White
+description: Set in the wild Canadian North, the adventure yarn centers upon a brave
+  young trader who is one of the few to work independently from the monopolizing Hudson
+  Bay Company. The young trader is looking for the man who killed his father after
+  smearing his good name by claiming that his father slept with the wife of the owner
+  of a trading post. The trouble for the young man begins when he is caught by Hudson
+  Bay thugs and forced to make it through the wilds with neither food nor weapons.
+  Somehow he barely manages to survive the harsh environment. Towards the end, the
+  daughter of his father's killer shows up and helps save him. Later the trading post
+  owner, who is just about to die, tells everyone the truth about the killing.
+gutenberg_issued: '2006-04-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18149'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Canada, Northern -- Fiction'
+title: 'Conjuror''s House: A Romance of the Free Forest'
+url: http://www.gutenberg.org/ebooks/18149
